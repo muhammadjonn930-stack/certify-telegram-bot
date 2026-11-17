@@ -1,7 +1,7 @@
 const { Telegraf } = require('telegraf');
 
 // O'zingizning bot tokeningizni shu yerga yozasiz
-const BOT_TOKEN = "9192691214:AAEiraJ_JW6dMVFXm2z_2h5bYeQBfCmlZL8";
+const BOT_TOKEN = "9127873062:AAE0PqLW0ohl01cCmXQj_l4rJ2SsqEdn6mw";
 const bot = new Telegraf(BOT_TOKEN);
 
 // Render'dagi veb-saytingiz havolasini shu yerga yozasiz (oxirida / belgisi bo'lmasin)
