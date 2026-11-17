@@ -9,7 +9,7 @@ const WEBSITE_URL = "https://muhammadjonn930-stack.github.io/certify.uz/";
 
 bot.start((ctx) => {
     ctx.reply(
-        "👋 Assalomu alaykum! CERTIFY.UZ Milliy Sertifikat simulyatoriga xush kelibsiz.\n\n" +
+        "👋 Assalomu alaykum! CERTIFY UZ Milliy Sertifikat simulyatoriga xush kelibsiz.\n\n" +
         "📌 Pastdagi tugmani bosing va bot ichining o'zida imtihon fanlarini tanlab, sinovdan o'ting:",
         {
             reply_markup: {
