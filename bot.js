@@ -5,7 +5,7 @@ const BOT_TOKEN = "9192691214:AAEiraJ_JW6dMVFXm2z_2h5bYeQBfCmlZL8";
 const bot = new Telegraf(BOT_TOKEN);
 
 // Render'dagi veb-saytingiz havolasini shu yerga yozasiz (oxirida / belgisi bo'lmasin)
-const WEBSITE_URL = "https://github.com/muhammadjonn930-stack/certify.uz"; 
+const WEBSITE_URL = "https://muhammadjonn930-stack.github.io/certify.uz/"; 
 
 bot.start((ctx) => {
     ctx.reply(
